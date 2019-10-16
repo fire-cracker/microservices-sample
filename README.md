@@ -1,5 +1,8 @@
 # Simple Stateless MicroService
 
+[![Build Status](https://travis-ci.org/oyedejipeace/microsevices.svg?branch=master)](https://travis-ci.org/oyedejipeace/microsevices) [![Coverage Status](https://coveralls.io/repos/github/oyedejipeace/microsevices/badge.svg?branch=master)](https://coveralls.io/github/oyedejipeace/microsevices?branch=master)
+
+
 ## Table of Contents
 
 * [Project Overview](#Project-Overview)
